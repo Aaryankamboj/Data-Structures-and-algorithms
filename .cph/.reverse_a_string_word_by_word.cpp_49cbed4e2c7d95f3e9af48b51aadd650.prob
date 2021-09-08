@@ -1,0 +1,1 @@
+{"name":"Local: reverse_a_string_word_by_word","url":"c:\\Users\\hp\\Desktop\\c++\\reverse_a_string_word_by_word.cpp","tests":[{"id":1626171379473,"input":"this is a book","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\c++\\reverse_a_string_word_by_word.cpp","group":"local","local":true}

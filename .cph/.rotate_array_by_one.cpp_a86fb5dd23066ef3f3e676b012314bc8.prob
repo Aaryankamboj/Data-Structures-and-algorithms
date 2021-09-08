@@ -1,0 +1,1 @@
+{"name":"Local: rotate_array_by_one","url":"c:\\Users\\hp\\Desktop\\c++\\rotate_array_by_one.cpp","tests":[{"id":1630403150513,"input":"5\n1 2 3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\c++\\rotate_array_by_one.cpp","group":"local","local":true}

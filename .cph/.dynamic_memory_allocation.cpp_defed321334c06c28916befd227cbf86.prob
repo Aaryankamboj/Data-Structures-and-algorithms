@@ -1,0 +1,1 @@
+{"name":"Local: dynamic_memory_allocation","url":"c:\\Users\\hp\\Desktop\\c++\\dynamic_memory_allocation.cpp","tests":[{"id":1625736480093,"input":"3\n1 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\c++\\dynamic_memory_allocation.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: count_inversion_in_O(N^2)","url":"c:\\Users\\hp\\Desktop\\c++\\count_inversion_in_O(N^2).cpp","tests":[{"id":1625204003770,"input":"8\n3 5 6 9 1 2 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\c++\\count_inversion_in_O(N^2).cpp","group":"local","local":true}

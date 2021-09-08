@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp",
+        "stack": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "git.ignoreLimitWarning": true
+}
