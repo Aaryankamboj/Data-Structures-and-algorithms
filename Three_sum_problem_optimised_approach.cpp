@@ -13,7 +13,7 @@ int main(){
     sort(a.begin(),a.end());
     for(int i=0;i<n;i++){
         int lo=i+1, hi=n-1;
-        while(lo<hi){
+         while(lo<hi){
             int current=a[i]+a[lo]+a[hi];
             if(current==target){
                 found=true;
