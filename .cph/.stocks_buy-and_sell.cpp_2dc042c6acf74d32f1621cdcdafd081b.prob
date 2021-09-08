@@ -1,0 +1,1 @@
+{"name":"Local: stocks_buy-and_sell","url":"c:\\Users\\hp\\Desktop\\c++\\stocks_buy-and_sell.cpp","tests":[{"id":1631076431652,"input":"6\n12 3 7 1 6 89\n96","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\c++\\stocks_buy-and_sell.cpp","group":"local","local":true}
